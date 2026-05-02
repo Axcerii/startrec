@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#heavy files
+*.mp4
+*.mov
+*.avi
+*.webm
