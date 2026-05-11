@@ -1,0 +1,14 @@
+{
+    "LandingPage": {
+        "title": "Le Tremplin de l'Audiovisuel",
+        "subtitle": "Le lieu où les idées prennent forme et le réseau se construit. Arrêtez d'être seul face à vos projets, rejoignez une équipe fiable sans tracas",
+        "cta": "Inscription",
+        "nav": {
+            "about": "À propos",
+            "contact": "Contact",
+            "us": "Qui sommes-nous",
+            "connexion": "Connexion",
+            "register": "Inscription"
+        }
+    }
+}

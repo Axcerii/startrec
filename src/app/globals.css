@@ -1,15 +1,14 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  --primary: #2d2d2d;
+  --secondary: #efefef;
+  --accent: #ffd800;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --background: var(--primary);
+  --foreground: var(--secondary);
 }
 
 html {
