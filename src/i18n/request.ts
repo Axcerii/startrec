@@ -1,8 +1,9 @@
 import { getRequestConfig } from 'next-intl/server';
+import { defaultLocale } from './config';
 
 export default getRequestConfig(async () => {
-    // Static for now, we'll change this later
-    const locale = 'en';
+    // No locale routing yet: the site is served in French only.
+    const locale = defaultLocale;
 
     return {
         locale,

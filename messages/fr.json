@@ -1,14 +1,230 @@
 {
+    "Metadata": {
+        "title": "StartREC · Le Tremplin de l'Audiovisuel",
+        "description": "Le lieu où les idées prennent forme et le réseau se construit. Arrêtez d'être seul face à vos projets, rejoignez une équipe fiable sans tracas."
+    },
     "LandingPage": {
         "title": "Le Tremplin de l'Audiovisuel.",
-        "subtitle": "Le lieu où les idées prennent forme et le réseau se construit. Arrêtez d'être seul face à vos projets, rejoignez une équipe fiable sans tracas",
-        "cta": "Inscription",
+        "subtitle": "Le lieu où les idées prennent forme et le réseau se construit. Arrêtez d'être seul face à vos projets, rejoignez une équipe fiable sans tracas.",
+        "cta": "Créer mon compte",
         "nav": {
+            "home": "Accueil StartREC",
             "about": "À propos",
             "contact": "Contact",
             "us": "Qui sommes-nous",
             "connexion": "Connexion",
-            "register": "Inscription"
+            "register": "Créer mon compte",
+            "logoAlt": "StartREC"
+        },
+        "problems": {
+            "title": "Les problèmes que nous rencontrons tous...",
+            "items": [
+                {
+                    "title": "TEXT",
+                    "text": "TEXT"
+                },
+                {
+                    "title": "TEXT",
+                    "text": "TEXT"
+                },
+                {
+                    "title": "TEXT",
+                    "text": "TEXT"
+                }
+            ]
+        },
+        "steps": {
+            "title": "Avec StartREC, passe du projet à l’équipe",
+            "subtitle": "Un même profil pour rejoindre des projets, présenter le tien et rencontrer les personnes qui peuvent y contribuer.",
+            "panelTitle": "ETAPES PAR ETAPES",
+            "items": [
+                {
+                    "title": "Crée un profil crédible",
+                    "text": "Présente tes compétences, tes réalisations et ton expérience pour aider les autres membres à comprendre ton profil."
+                },
+                {
+                    "title": "Construis ta crédibilité",
+                    "text": "Tes projets, réalisations et expériences enrichissent progressivement ton profil et montrent ce que tu sais faire."
+                },
+                {
+                    "title": "TEXT",
+                    "text": "TEXT"
+                },
+                {
+                    "title": "TEXT",
+                    "text": "TEXT"
+                }
+            ]
+        },
+        "reasons": {
+            "title": "Deux façons de faire avancer un projet",
+            "subtitle": "Avec StartREC, tu peux porter ton propre projet, rejoindre celui de quelqu’un d’autre, ou faire les deux.",
+            "bridge": "Aujourd’hui tu cherches une équipe. Demain, tu peux rejoindre celle d’un autre projet.",
+            "idea": {
+                "title": "TOUT PART D’UNE IDEE",
+                "items": [
+                    {
+                        "title": "Structure ton idée",
+                        "text": "Présente clairement le projet, ses conditions et son contexte pour aider les bons profils à se projeter."
+                    },
+                    {
+                        "title": "Précise tes besoins",
+                        "text": "Définis les rôles et compétences recherchés pour recevoir des candidatures plus pertinentes."
+                    },
+                    {
+                        "title": "Repère les bons profils",
+                        "text": "Compare candidatures, compétences, portfolios et crédits pour mieux évaluer chaque profil."
+                    },
+                    {
+                        "title": "Construis ton équipe",
+                        "text": "Échange avec les candidats, sélectionne les profils adaptés et rassemble progressivement ton équipe autour du projet."
+                    }
+                ]
+            },
+            "project": {
+                "title": "TOUT PART D’UN PROJET",
+                "items": [
+                    {
+                        "title": "Repère les bons projets",
+                        "text": "Recherche et filtres t’aident à trouver les projets adaptés à ton rôle, ta localisation et tes disponibilités."
+                    },
+                    {
+                        "title": "Choisis en confiance",
+                        "text": "Consulte le porteur, l’équipe et les conditions avant de décider si le projet te correspond."
+                    },
+                    {
+                        "title": "Présente ta candidature",
+                        "text": "Choisis ton rôle, explique ta motivation et sélectionne les réalisations pertinentes de ton portfolio."
+                    },
+                    {
+                        "title": "Fais grandir ton expérience",
+                        "text": "Si tu rejoins l’équipe, ta participation peut enrichir ton expérience, ton portfolio et, selon le projet, tes crédits."
+                    }
+                ]
+            }
+        },
+        "circle": {
+            "title": "Une idée. Une équipe."
+        },
+        "testimonials": {
+            "heading": "Témoignage",
+            "items": [
+                {
+                    "name": "Theresa Webb",
+                    "firstName": "Theresa",
+                    "role": "Scénariste - Débutante - Porteur",
+                    "location": "INT/JOUR - Paris",
+                    "quote": "J’ai grave aimé ! j’ai trouvé mon equipe en quelques cliques lol",
+                    "photo": "/landing/testimonials/theresa.png"
+                },
+                {
+                    "name": "TEXT",
+                    "firstName": "TEXT",
+                    "role": "TEXT",
+                    "location": "TEXT",
+                    "quote": "TEXT",
+                    "photo": "/landing/testimonials/placeholder-1.png"
+                },
+                {
+                    "name": "TEXT",
+                    "firstName": "TEXT",
+                    "role": "TEXT",
+                    "location": "TEXT",
+                    "quote": "TEXT",
+                    "photo": "/landing/testimonials/placeholder-2.png"
+                }
+            ]
+        },
+        "team": {
+            "title": "Rencontre l’équipe",
+            "members": [
+                {
+                    "name": "Warda",
+                    "role": "Cheffe de projet & designer UX/UI",
+                    "favoriteFilm": "",
+                    "bio": "Ayant elle-même ressenti la difficulté de s'insérer dans un secteur opaque sans réseau préexistant, Warda porte StartRec comme un projet de cœur et d'émancipation collective. Ses piliers : l'entraide, l'écoute utilisateur et l'égalité des chances dès la sortie des études. StartRec résout directement l'angoisse de la feuille blanche et de l'isolement en fluidifiant la rencontre entre porteurs de visions et équipiers motivés. En tant que cheffe de projet et designer UX/UI, elle veille à l'harmonie de l'équipe et conçoit des parcours intuitifs centrés sur les réalités du plateau."
+                },
+                {
+                    "name": "Hugo",
+                    "role": "Développeur · Cybersécurité & RGPD",
+                    "favoriteFilm": "La trilogie du Seigneur des Anneaux",
+                    "bio": "L’un des développeurs du projet, plus engagé pour sa conviction à réduire les inégalités que pour sa passion pour le cinéma, c’est lui qui s’occupe à ce qu’on respecte le plus possible les lois du numérique. Il nous protège de par ses connaissances en cybersécurité et en conformité RGPD. Il a pour objectif de construire une plateforme éthique avant tout, même si cela implique des coûts supplémentaires."
+                },
+                {
+                    "name": "Junior",
+                    "role": "Marketing & acquisition",
+                    "favoriteFilm": "Matrix",
+                    "bio": "Convaincu que le talent ne devrait jamais être freiné par le manque de carnet d'adresses, Junior a rejoint StartRec pour défendre un cinéma plus juste, accessible et bienveillant. Le milieu audiovisuel souffre trop souvent d'un entre-soi fermé et de tournages avortés faute de partenaires fiables. StartRec répond à ce besoin vital en offrant un tremplin sécurisé où la créativité et la rigueur priment enfin sur le piston. Au sein de l'équipe, il pilote le pôle marketing et acquisition : il structure la stratégie de visibilité, le business model et les partenariats pour connecter un maximum d'étudiants et de passionnés."
+                },
+                {
+                    "name": "Lorenzo",
+                    "role": "Développeur",
+                    "favoriteFilm": "",
+                    "bio": "Convaincu par l'intelligence collective et la puissance du web open et accessible, Lorenzo a rejoint StartRec pour mettre le code au service de la création artistique. Ses valeurs reposent sur la simplicité d'usage, l'efficacité opérationnelle et le respect du travail d'autrui. StartRec comble un manque critique dans le cinéma en remplaçant les annuaires désuets par une plateforme réactive et fluide qui facilite le passage à l'action. Développeur sur le projet, il programme les fonctionnalités interactives, l'intégration des profils et optimise la navigation pour chaque utilisateur."
+                },
+                {
+                    "name": "Catarina",
+                    "role": "Direction artistique",
+                    "favoriteFilm": "",
+                    "bio": "Passionnée par l'impact visuel et l'émotion par l'image, Catarina a rejoint StartRec pour donner une voix et une identité fortes à ceux que l'on n'écoute pas assez. Elle défend des valeurs d'inclusion, d'audace et de transmission : chaque débutant mérite de valoriser son regard sans être invisibilisé par manque de notoriété. StartRec répond à cette injustice en créant un écrin moderne où l'on montre enfin son travail en conditions réelles. Catarina conçoit l'univers graphique, la charte et les supports visuels pour rendre l'expérience aussi stimulante que professionnelle."
+                },
+                {
+                    "name": "Tatiana",
+                    "role": "Direction artistique",
+                    "favoriteFilm": "",
+                    "bio": "Animée par le pouvoir narratif de l'esthétique et la force du collectif, Tatiana s'est investie dans StartRec pour rendre la création cinématographique visible et accessible à tous. Elle défend des valeurs d'authenticité, d'équité et d'émulation artistique : le manque de relations ne devrait jamais empêcher un regard singulier d'exister sur un écran. StartRec répond précisément à cette barrière en créant un espace sécurisant et dynamique où les univers créatifs se rencontrent enfin. En binôme sur la direction artistique, Tatiana co-conçoit l'identité visuelle, les déclinaisons graphiques et l'univers de marque pour sublimer chaque projet."
+                }
+            ],
+            "favoriteFilm": "Film préféré : {film}"
+        },
+        "join": {
+            "title": "Rejoins le projet StartREC",
+            "subtitle": "Cherche un projet à rejoindre ou commence à constituer une équipe autour du tien.",
+            "register": "Créer mon compte",
+            "login": "Se connecter"
+        },
+        "faq": {
+            "title": "Foire aux questions",
+            "items": [
+                {
+                    "question": "C'est quoi exactement le « Score de Karma » et comment ça marche ?",
+                    "answer": "Le Karma est notre indicateur de fiabilité. À la fin d'un tournage, les participants valident simplement la présence effective des équipiers. Pas de notation subjective ni d'évaluation cassante : chaque présence confirmée augmente ton score. C'est ce qui prouve aux réalisateurs que tu es ponctuel et fiable, et ce qui met fin au fléau des annulations de dernière minute."
+                },
+                {
+                    "question": "Est-ce que StartRec est vraiment gratuit pour les étudiants et débutants ?",
+                    "answer": "Oui, à 100 %. Créer ton profil, héberger tes liens de portfolio, parcourir les annonces et postuler à des tournages est totalement gratuit. Des fonctionnalités optionnelles (comme l’intégration vidéo enrichie ou le boost de visibilité) existent via un abonnement Premium accessible, mais le socle pour trouver une équipe reste gratuit pour tout le monde."
+                },
+                {
+                    "question": "Je débute et je n'ai pas de réseau ni de gros CV, est-ce que la plateforme est faite pour moi ?",
+                    "answer": "C'est exactement pour toi qu'on a créé StartRec ! Contrairement aux réseaux classiques où tout fonctionne par recommandation fermée, ici les projets recherchent spécifiquement des profils juniors et motivés. Dès ton inscription, tu peux mettre en avant tes compétences, ton matériel ou tes exercices d'école pour décrocher tes premières vraies expériences."
+                },
+                {
+                    "question": "Comment s'affichent mes réalisations sur mon profil ?",
+                    "answer": "Pas besoin d'envoyer des CV PDF indigestes ni de multiplier les liens externes. Tu relies directement tes vidéos (Vimeo ou YouTube) sur ton profil grâce à nos lecteurs intégrés. Un recruteur ou un réalisateur peut voir tes plans, ton étalonnage ou ton jeu en un clic, sans jamais quitter StartRec."
+                },
+                {
+                    "question": "Que se passe-t-il une fois que je publie un projet de tournage ?",
+                    "answer": "Ton annonce est immédiatement visible auprès des profils correspondant aux métiers que tu cherches (cadreur, électro, ingénieur son, etc.). Tu reçois les candidatures dans ton espace projet, tu consultes leur travail en vidéo et leur score de Karma pour choisir tes équipiers en toute sérénité."
+                }
+            ]
+        },
+        "newsletter": {
+            "title": "Tu veux nous rejoindre ? N’hésites plus !",
+            "subtitle": "Inscris-toi à notre Newsletter et suis-nous sur les réseaux pour ne rien manquer !",
+            "placeholder": "email",
+            "submit": "Je m’inscris"
+        },
+        "footer": {
+            "follow": "Suivez-nous !",
+            "legal": "Mentions Légales",
+            "terms": "CGU",
+            "rights": "Tous droits réservés",
+            "copyright": "©2025",
+            "usQuestion": "Qui sommes-nous ?"
+        },
+        "carousel": {
+            "previous": "Précédent",
+            "next": "Suivant"
         }
     }
 }
